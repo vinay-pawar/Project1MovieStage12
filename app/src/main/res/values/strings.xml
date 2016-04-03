@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Movie Poster</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+    <string name="pref_orderType">Select Sort Order</string>
+
+    <string name="pref_orderTypes_default">sort_by=popularity.desc</string>
+
+    <string name="api_key">538b4d1d9160b4964deefc5589df1b14</string>
+
+    <string name="pref_orderKey">pref_orderKey</string>
+    <string name="pref_header_general">General</string>
+
+
+    <string-array name="pref_orderTypes_entries">
+        <item>Most Popular</item>
+        <item>Most Liked</item>
+
+    </string-array>
+    <string-array name="pref_orderTypes_values">
+        <item>sort_by=popularity.desc</item>
+        <item>certification_country=US&amp;certification=R&amp;sort_by=vote_average.desc</item>
+    </string-array>
+
+    <!-- Strings related to Settings -->
+
+
+
+</resources>
